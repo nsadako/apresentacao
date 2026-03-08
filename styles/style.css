@@ -133,11 +133,11 @@ body {
     }
 
     .apresentacao__imagem {
-        width: 100%;
+        width: auto;
     }
     
     .apresentacao__conteudo {
-        width:auto;
+        width: auto;
     }
    
 }
